@@ -1,3 +1,13 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+Hi, I'm [Ruwan Dilhara](https://linkedin.com/in/ruwan-dilhara-260131336), a passionate software engineer. Explore my projects and skills in the world of development.
+
+---
+
+### About Me
+
+I'm a full-stack developer skilled in technologies like **HTML**, **CSS**, **JavaScript**, **Java**, and **Spring Boot**. I'm always excited to learn new things and work on innovative projects that solve real-world problems.
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Ruwan+Dilhara;Trainee+Software+Engineer;Welcome+to+my+profile!" alt="Typing Animation" />
 </h1>
