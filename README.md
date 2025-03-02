@@ -1,3 +1,6 @@
+<!-- comment <img src="https://raw.githubusercontent.com/RuwanDilhara/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="800"/>-->
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FF5733&size=40&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ruwan+Dilhara;Full-Stack+Developer;Spring+Boot+%7C+Angular+%7C+Flutter;Open-Source+Contributor;Problem+Solver" alt="Typing Animation">
@@ -14,8 +17,9 @@
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RuwanDilhara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RuwanDilhara&theme=algolia&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RuwanDilhara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=RuwanDilhara&theme=algolia&hide_border=false"/>
+
 </div>
 
 <div align="center">
