@@ -9,8 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.9.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: RuwanDilhara
+          format: svg
+          output_dir: ./profile-3d-contrib
+          
+      - name: Upload Generated Graph
+        uses: actions/upload-artifact@v3
+        with:
+          name: 3d-contrib
+          path: ./profile-3d-contrib
