@@ -2,7 +2,7 @@ name: 3D Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight (UTC)
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -13,17 +13,17 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
-        uses: JasperDevelop/github-profile-3d-contrib@1.1.0
+        uses: eagleoutice/github-profile-3d-contrib@0.10.1
         with:
-          username: RuwanDilhara
-          format: svg
-          output_dir: ./profile-3d-contrib
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: RuwanDilhara
+          output: profile-3d-contrib
 
       - name: Upload Generated Graph
         uses: actions/upload-artifact@v4
         with:
           name: 3d-contrib
-          path: ./profile-3d-contrib
+          path: profile-3d-contrib
 
       - name: Commit and Push Graph to Repository
         run: |
