@@ -19,8 +19,10 @@ jobs:
           format: svg
           output_dir: ./profile-3d-contrib
           
-      - name: Upload Generated Graph
-        uses: actions/upload-artifact@v3
-        with:
-          name: 3d-contrib
-          path: ./profile-3d-contrib
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add ./profile-3d-contrib
+          git commit -m "Updated 3D Contribution Graph"
+          git push
