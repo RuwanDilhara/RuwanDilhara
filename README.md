@@ -45,7 +45,7 @@
 [![Ruwan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RuwanDilhara&theme=react-dark&hide_border=true&area=true)](https://github.com/RuwanDilhara)
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruwandilhara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RuwanDilhara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br>
   <img width="49%" src="https://streak-stats.demolab.com/?user=RuwanDilhara&theme=algolia&hide_border=false"/>
 
