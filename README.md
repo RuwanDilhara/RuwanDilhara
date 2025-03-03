@@ -11,11 +11,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&animation=fadeIn&fontAlignY=45"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuwanDilhara&style=for-the-badge&color=orange" alt="Profile Views"/> 
-  <img src="https://hit.yhype.me/github/profile?user_id=RuwanDilhara" alt="GitHub Hits">
-</p>
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RuwanDilhara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=RuwanDilhara&theme=algolia&hide_border=false"/>
@@ -62,6 +57,11 @@
 ## 🎧 Now Playing
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31gp4tzc5bzu5pl3mfbkxbbij3fy)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RuwanDilhara&style=for-the-badge&color=orange" alt="Profile Views"/> 
+  <img src="https://hit.yhype.me/github/profile?user_id=RuwanDilhara" alt="GitHub Hits">
+</p>
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
