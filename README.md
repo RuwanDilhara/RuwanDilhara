@@ -48,6 +48,8 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RuwanDilhara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br>
   <img width="49%" src="https://streak-stats.demolab.com/?user=RuwanDilhara&theme=algolia&hide_border=false"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuwanDilhara&layout=compact&theme=dark&bg_color=0d1117&title_color=1f6feb&text_color=ffffff" />
 
 </div>
 <br>
