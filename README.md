@@ -23,28 +23,58 @@
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠  Languages and Tools
 
+  <br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="80" alt="cplusplus logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="80" alt="dot-net logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=php" height="80" alt="php logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=spring" height="80" alt="spring logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="80" alt="nodejs logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=express" height="80" alt="express logo"  width="85" />
 
-### **Programming & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  <br>
+  
+  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=html" height="80" alt="html5 logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=css" height="80" alt="css3 logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=angular" height="80" alt="angularjs logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=vite" height="80" alt="vite logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="80" alt="threejs logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="80" alt="tensorflow logo"  width="85" />
 
-### **Database & Cloud**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  <br>
+ 
+  <img src="https://skillicons.dev/icons?i=mongodb" height="80" alt="mongodb logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="80" alt="mysql logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=aws" height="80" alt="amazonwebservices logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="80" alt="firebase logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="80" alt="supabase logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" alt="bootstrap logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="80" alt="tailwindcss logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=redux" height="80" alt="redux logo"  width="85" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="80" alt="laravel logo" width="85" />
 
-### **Tools & Design**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+  <br>
 
----
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="80" alt="androidstudio logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="80" alt="visualstudio logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="80" alt="wordpress logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=postman" height="80" alt="postman logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=github" height="80" alt="github logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=figma" height="80" alt="figma logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=blender" height="80" alt="blender logo" width="85" />
+  <img src="https://skillicons.dev/icons?i=md" height="80" alt="markdown logo" width="85" />
+
+</div>
+<br>
 
 ## 🔥 GitHub Stats  
 
@@ -90,39 +120,6 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
-
----
-
-## 💡 Fun Fact  
-> 🚀 *I turn coffee into code, and bugs into features!*  
-> 🖥 *CTRL + C and CTRL + V are my superpowers!*  
-
----
-
-## 🌀 Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🎶 Now Playing  
-<p align="center">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gp4tzc5bzu5pl3mfbkxbbij3fy)
-</p>
-
-
-
-
-
----
-
-## 🐍 Watch My Contributions Grow!  
-<p align="center">
-  <img src="https://github.com/RuwanDilhara/RuwanDilhara/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=blinking&fontAlignY=75"/>
