@@ -121,6 +121,12 @@
   </a>
 </p>
 
+<p align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=RuwanDilhara&color=blue)
+
+</p>
+
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=blinking&fontAlignY=75"/>
