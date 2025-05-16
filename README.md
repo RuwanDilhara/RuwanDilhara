@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&width=450&lines=Trainee+Software+Engineer;Full+Stack+Developer;Passionate+about+Java%2C+Angular%2C+Spring+Boot;Tech+Enthusiast+%7C+UI%2FUX+Designer;Building+Awesome+Projects!">
 </p>
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 </p>
