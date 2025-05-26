@@ -83,7 +83,9 @@
 <table align="center">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=RuwanDilhara&show_icons=true&theme=radical&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&icon_color=FF9D00" />
+ <img src="https://github-readme-stats.vercel.app/api?username=RuwanDilhara&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=RuwanDilhara&show_icons=true&theme=radical&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&icon_color=FF9D00" /> -->
+  
 </td>
 <td>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuwanDilhara&theme=radical&background=0d1117&ring=00F7FF&fire=FF9D00&currStreakLabel=FF9D00" />
