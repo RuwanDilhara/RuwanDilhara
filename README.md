@@ -2,8 +2,13 @@
 <h1 align="center"> Hey there, I'm Ruwan Dilhara! </h1>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&width=450&lines=Trainee+Software+Engineer;Full+Stack+Developer;Passionate+about+Java%2C+Angular%2C+Spring+Boot;Tech+Enthusiast+%7C+UI%2FUX+Designer;Building+Awesome+Projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Software+Engineer+%7C+AI+Enthusiast" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=2500&pause=800&color=A855F7,EC4899,F59E0B&center=true&vCenter=true&width=700&lines=Building+Scalable+Solutions+with+AI;Java+•+Spring+Boot+•+Angular+•+Cloud;Full+Stack+Engineering+%7C+System+Design;Machine+Learning+•+AI+Integration;Crafting+Intelligent+User+Experiences" />
+</p>
+
 
 
 <p align="center">
