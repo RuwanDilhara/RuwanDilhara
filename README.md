@@ -81,7 +81,7 @@ Connect with Me
   <a href="https://github.com/RuwanDilhara">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://ruwandilharalk.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="https://youtube.com">
